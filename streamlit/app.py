@@ -12,7 +12,7 @@ st.write(
 # Get the current credentials
 session = get_active_session()
 
-sql = f"""select *
+sql = f"""select title::varchar as title,poster,overview::varchar as overview
 from emoji.data.movie_details
 order by views desc
 limit 3

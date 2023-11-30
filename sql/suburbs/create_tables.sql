@@ -12,6 +12,9 @@ from emoji.kafka_schema.table1 where record_content:type = 'suburb';
 
 
 -- Let Verify that we have some data in the table
+select * from emoji.data.suburbs limit 10;
+
+-- Can we group it up?
 select 
     count(*) as most_popular_suburb,
     suburb_emoji,

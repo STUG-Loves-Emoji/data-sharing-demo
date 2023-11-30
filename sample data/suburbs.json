@@ -1,0 +1,224 @@
+{
+    "emojis": [
+        {
+            "type": "suburb",
+            "emoji": "🎸🐖",
+            "value": "Rockingham"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🤬🛎 🏘 ",
+            "value": "Maddington"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🍆 🔥 or 🐓🔥",
+            "value": "Cockburn"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🟢🪵",
+            "value": "Greenwood"
+        },
+        {
+            "type": "suburb",
+            "emoji": "😎🔔☝️",
+            "value": "Coolbellup"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🪨🪨",
+            "value": "Two Rocks"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⛪🛬",
+            "value": "Churchlands"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👉🚽",
+            "value": "Innaloo"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬆️🆓0️⃣",
+            "value": "North Fremantle"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🧑🏼‍🦳👍🏼",
+            "value": "Karrinyup"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🥎🅰️✡🅰️",
+            "value": "Ballajura"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🫛🅰️ 💧🐍",
+            "value": "Piara Waters"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🥟🧋🍱🍺🏘️🚘👒",
+            "value": "Vic Park"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👋 🚗",
+            "value": "Byford"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🚍🅾️",
+            "value": "Bussleton"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🪞📖🅰️",
+            "value": "Mirrabooka"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🦢⌵🫵",
+            "value": "Swanview"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🔨🛷",
+            "value": "Hammersley"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⚠️👨‍👦‍👦",
+            "value": "Warnbro"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🥫 👰",
+            "value": "Canning Vale"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🕎",
+            "value": "Menora"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬆🦢",
+            "value": "Upper Swan"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👸🛝",
+            "value": "Queens Park"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬇🌊",
+            "value": "Southern river"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🦀🦀🦀🦀🦀🦀🦀🦀",
+            "value": "Mandurah"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👀🚽🚗",
+            "value": "Iiluka"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬆🌉",
+            "value": "Northbridge"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🔔⛰️",
+            "value": "Belmont"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🐂🦗",
+            "value": "Bullcreek"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🔥🏝️",
+            "value": "Burns beach"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🪿0️⃣",
+            "value": "Gosnells"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👸🍌",
+            "value": "Kwinana"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬇️ 🧶🤦‍♀️🆙️",
+            "value": "South Yunderup"
+        },
+        {
+            "type": "suburb",
+            "emoji": "⬅🦢",
+            "value": "West Swan"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🌳🐝",
+            "value": "Treeby"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🍎❎",
+            "value": "Applecross"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🛌 🛻",
+            "value": "Bedford"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🦘🐾",
+            "value": "Nollamara"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🗓️ 5️⃣",
+            "value": "Maylands"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🔔🤿🐍",
+            "value": "Baldivis"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🤷‍♂️🔑🔑",
+            "value": "Waikiki"
+        },
+        {
+            "type": "suburb",
+            "emoji": "👱‍♂️🎶🏘️",
+            "value": "Kensington"
+        },
+        {
+            "type": "suburb",
+            "emoji": "🇦🇺🅿️",
+            "value": "Osbourne Park"
+        },
+        {
+            "type": "suburb",
+            "emoji": "1️⃣🅰️🦘",
+            "value": "Wanneroo"
+        }
+    ]
+}

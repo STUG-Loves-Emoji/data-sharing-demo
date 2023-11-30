@@ -1,0 +1,339 @@
+{
+    "emojis": [
+        {
+            "emoji": "⬆️ 🎈 🏠",
+            "value": "Up",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧑‍🏫☣🥷 🐢",
+            "value": "Teenage Mutant Ninja Turtles",
+            "type": "movie"
+        },
+        {
+            "emoji": "🔎🐠",
+            "value": "Finding Nemo",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧤🟨🟥🟧🟪🟦🟩🌍💀🌎",
+            "value": "Avengers: Infinity War",
+            "type": "movie"
+        },
+        {
+            "emoji": "👱🏻‍♂️🏠😱🙍‍♂️🙍‍♂️🎄",
+            "value": "Home Alone",
+            "type": "movie"
+        },
+        {
+            "emoji": "👧🐶🌪🏠🪄🟨🚸🦁🤖👨‍🌾💚🧩👸🦹‍♀️🏡",
+            "value": "Wizard of Oz",
+            "type": "movie"
+        },
+        {
+            "emoji": "🕷️ ☢️+ 🤓 = 💪",
+            "value": "Spiderman",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦊🐰👮",
+            "value": "Zootopia",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦟🦖??",
+            "value": "Jurassic Park",
+            "type": "movie"
+        },
+        {
+            "emoji": "👱🍫🏭🧑‍🦰🎩",
+            "value": "Charley and the Chocolate Factory",
+            "type": "movie"
+        },
+        {
+            "emoji": "💯💯💯",
+            "value": "300",
+            "type": "movie"
+        },
+        {
+            "emoji": "👂🏻+ 🎶",
+            "value": "The Sound of Music",
+            "type": "movie"
+        },
+        {
+            "emoji": "🤖 👮‍♀️",
+            "value": "RoboCop",
+            "type": "movie"
+        },
+        {
+            "emoji": "👩1️⃣🐲",
+            "value": "Raya and the Last Dragon",
+            "type": "movie"
+        },
+        {
+            "emoji": "⚡🤓🦌",
+            "value": "Harry Potter",
+            "type": "movie"
+        },
+        {
+            "emoji": "🚢👩‍❤️‍👨🗻💀",
+            "value": "Titanic",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧸 📖",
+            "value": "Toy Story",
+            "type": "movie"
+        },
+        {
+            "emoji": "👹 💚 👸 👹 🐴 🧇",
+            "value": "Shrek",
+            "type": "movie"
+        },
+        {
+            "emoji": "🌴🐆🛳",
+            "value": "Jungle Cruise",
+            "type": "movie"
+        },
+        {
+            "emoji": "👻👋🏻",
+            "value": "Spirited Away",
+            "type": "movie"
+        },
+        {
+            "emoji": "🎈 😨 🤡",
+            "value": "It",
+            "type": "movie"
+        },
+        {
+            "emoji": "🕷🕸🐖",
+            "value": "Charlotte's Web",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐶🍝❤️",
+            "value": "Lady and the Tramp",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐍🐍🐍 + 🛩",
+            "value": "Snakes on a Plane",
+            "type": "movie"
+        },
+        {
+            "emoji": "🤫🐑🐑",
+            "value": "Silence of the Lambs",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦁👑",
+            "value": "Lion King",
+            "type": "movie"
+        },
+        {
+            "emoji": "🎮🕹👩🏻‍🦰👨🏻🧔🏾‍♂️👨🏼‍🦲🐒🐍🦓🐆🐘🐊🌲🌲🌲🌲📶",
+            "value": "Jumanji",
+            "type": "movie"
+        },
+        {
+            "emoji": "🖖🏽",
+            "value": "Star Trek",
+            "type": "movie"
+        },
+        {
+            "emoji": "🤰🏻🌼\n👱🏻‍♀️🌟\n💁🏻‍♀️👱🏻‍♀️🗼🏃‍♂️◻️🐎\n💁🏻‍♀️➡️🧓🏻➡️💨",
+            "value": "Tangled",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧜‍♀️🦞🐙🐠🧙",
+            "value": "Little Mermaid",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐀👨‍🍳👩‍🍳",
+            "value": "Ratatouille",
+            "type": "movie"
+        },
+        {
+            "emoji": "👩👩⛄👨‍🦱🦌🧊🧊",
+            "value": "Frozen",
+            "type": "movie"
+        },
+        {
+            "emoji": "👻 🐕",
+            "value": "Ghost Dog",
+            "type": "movie"
+        },
+        {
+            "emoji": "1️⃣2️⃣7️⃣⌛",
+            "value": "127 hours",
+            "type": "movie"
+        },
+        {
+            "emoji": "💋💋💥💥",
+            "value": "Kiss Kiss Bang Bang",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧑‍🔬🕰🚗",
+            "value": "Back to the Future",
+            "type": "movie"
+        },
+        {
+            "emoji": "🎤👨‍🦲🎶8️⃣↔️",
+            "value": "8 Mile",
+            "type": "movie"
+        },
+        {
+            "emoji": "⭐️ 🗡",
+            "value": "Star Wars",
+            "type": "movie"
+        },
+        {
+            "emoji": "🪲🧃",
+            "value": "Beetlejuice",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦾😎🤳\n🦿",
+            "value": "Terminator",
+            "type": "movie"
+        },
+        {
+            "emoji": "✈️🚂🚘?",
+            "value": "Planes, Trains and Automobiles",
+            "type": "movie"
+        },
+        {
+            "emoji": "🛫",
+            "value": "Airplane",
+            "type": "movie"
+        },
+        {
+            "emoji": "👧💰 👦🚫💰 💗 🙅‍♀️🙅💔💌💔🪖 👧💍💓🙎‍♀️📰🏚👷🏠🙋‍♀️💗💗🚫👰👫👰👩‍🦳👴🏢👩‍🦳⁉️👴📒 👩‍🦳❤🛌 🛌 🪦 🪦",
+            "value": "The Notebook",
+            "type": "movie"
+        },
+        {
+            "emoji": "😠 📶",
+            "value": "Mad Max",
+            "type": "movie"
+        },
+        {
+            "emoji": "🗡\n👻",
+            "value": "Ghost Busters",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦎🧑🏽‍🦱",
+            "value": "Lizard Boy",
+            "type": "movie"
+        },
+        {
+            "emoji": "🧙‍♂️🗡️🐍🙍‍♂️",
+            "value": "Chamber of Secrets",
+            "type": "movie"
+        },
+        {
+            "emoji": "🏢📃📞👨‍💼👩‍💼👨‍💼👨‍💼👩‍💼👨‍💼👨‍💼👨‍💼👩‍💼",
+            "value": "The Office",
+            "type": "movie"
+        },
+        {
+            "emoji": "🕷 + 👨 ⬇️ ⏭ 🏠",
+            "value": "Spiderman, No Way Home",
+            "type": "movie"
+        },
+        {
+            "emoji": "🥊🧼🤫",
+            "value": "Fight Club",
+            "type": "movie"
+        },
+        {
+            "emoji": "👑 💍💍",
+            "value": "Lord of the Rings",
+            "type": "movie"
+        },
+        {
+            "emoji": "💊🥂➡️😵‍💫➡️🤯",
+            "value": "Hangover",
+            "type": "movie"
+        },
+        {
+            "emoji": "👨➡️👨‍✈️➡️👨‍⚕️💵💵💵",
+            "value": "Catch me if you Can",
+            "type": "movie"
+        },
+        {
+            "emoji": "🌾🌽🌾🐕👽\n👽💦🔫=💀",
+            "value": "Signs",
+            "type": "movie"
+        },
+        {
+            "emoji": "🟥‼️👨👦 👩➡️♟️ 🟨🥚x3️⃣",
+            "value": "Red Notice",
+            "type": "movie"
+        },
+        {
+            "emoji": "🦖☢💥🏙",
+            "value": "Godzilla",
+            "type": "movie"
+        },
+        {
+            "emoji": "💀🎅👻❄️",
+            "value": "The Nightmare Before Christmas",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐝🎬🔪🕺🏻🛹📱💵🖤🖤🖤🖤🖤🖤⚠️⚠️⚠️⚠️",
+            "value": "The Bee Movie",
+            "type": "movie"
+        },
+        {
+            "emoji": "👧🏻🧒🏼🌽",
+            "value": "Children of the Corn",
+            "type": "movie"
+        },
+        {
+            "emoji": "👰‍♀️❤️🧟‍♂️",
+            "value": "Bride of Frankenstein",
+            "type": "movie"
+        },
+        {
+            "emoji": "🅰️ 🕰🧑🏻‍🔧 🍊",
+            "value": "A Clockwork Orange",
+            "type": "movie"
+        },
+        {
+            "emoji": "👑🦟",
+            "value": "Lord of the Flies",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐷🏘️",
+            "value": "Animal Farm",
+            "type": "movie"
+        },
+        {
+            "emoji": "🐺🚶🏽",
+            "value": "Wolf Walkers",
+            "type": "movie"
+        },
+        {
+            "emoji": "🟠👱🛑🟢🎩👱🪓🎋",
+            "value": "The Lorax",
+            "type": "movie"
+        },
+        {
+            "emoji": "👨‍🌾❤️👩🏼\n👨‍🌾⏩🏴‍☠️\n👩🏼⏩👸💍🤴☹️",
+            "value": "The Princess Bride",
+            "type": "movie"
+        },
+        {
+            "emoji": "🤴🇬🇧🔎🏆\n🇫🇷🏰🥥🐦\n🎶🎶🍴\n🌉❓\n🐇😰💣",
+            "value": "Monty Python and the Holy Grail",
+            "type": "movie"
+        }
+    ]
+}
