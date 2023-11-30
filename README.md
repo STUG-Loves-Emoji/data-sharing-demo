@@ -1,6 +1,6 @@
 # Data Sharing Demo
 
-## This is the repository for the Share Sharing Demo for the Perth STUG Build Event 2023-11-30
+## This is the repository for the Data Sharing Demo for the Perth STUG Build Event 2023-11-30
 
 ## What you'll build
 
