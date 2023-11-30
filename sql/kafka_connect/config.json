@@ -1,0 +1,27 @@
+{
+    "name": "EmojiDesignsData",
+    "config": {
+        "connector.class": "com.snowflake.kafka.connector.SnowflakeSinkConnector",
+        "tasks.max": "1",
+        "topics": "my-topic",
+        "snowflake.topic2table.map": "my-topic:table1",
+        "buffer.count.records": "10000",
+        "buffer.flush.time": "60",
+        "buffer.size.bytes": "5000000",
+        "snowflake.url.name": "XXXXXX.ap-southeast-2.snowflakecomputing.com",
+        "snowflake.user.name": "KAFKA_CONNECT_EMOJI_USER",
+        "snowflake.role.name": "KAFKA_CONNECTOR_ROLE_1",
+        "snowflake.private.key": "MIIE .....  ifA==",
+        "snowflake.database.name": "EMOJI",
+        "snowflake.schema.name": "KAFKA_SCHEMA",
+        "snowflake.ingestion.method": "SNOWPIPE_STREAMING",
+        "snowflake.metadata.createtime": "true",
+        "snowflake.metadata.topic": "true",
+        "snowflake.metadata.offset.and.partition": "true",
+        "snowflake.metadata.all": "true",
+        "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+        "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+        "key.converter.schemas.enable": false,
+        "value.converter.schemas.enable": false
+    }
+}
